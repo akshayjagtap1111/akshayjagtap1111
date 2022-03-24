@@ -32,8 +32,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayjagtap1111&show_icons=true&locale=en" alt="akshayjagtap1111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayjagtap1111&" alt="akshayjagtap1111" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://twitter.com/akshayjagtap777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshayjagtap777" height="30" width="40" /></a>
+  
+  
 <a href="https://linkedin.com/in/linkedin.com/in/akshay-jagtap-7ab17b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/akshay-jagtap-7ab17b213" height="30" width="40" /></a>
 </p>
