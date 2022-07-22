@@ -24,7 +24,7 @@
 
 
 - 👀 I’m interested in **Web Development**
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **OAuth**
 - 📫 How to reach me **er.akshayjagtap@gmail.com**
 \
 &nbsp;
