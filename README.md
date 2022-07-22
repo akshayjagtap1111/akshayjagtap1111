@@ -25,7 +25,6 @@
 
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **MERN STACK**
-- 💞️ I’m looking to work in healthy work environment
 - 📫 How to reach me **er.akshayjagtap@gmail.com**
 \
 &nbsp;
