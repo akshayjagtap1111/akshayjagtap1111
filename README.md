@@ -3,15 +3,13 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A passionate frontend developer from India 
+<h3 align="center">A passionate MERN Stack developer from India 
              with sound knowledge in full stack technology
               and hands-on practice in Data Struture and
                Algorithms. Curious about
                   modern web technology.
                    Interested in learning technical things.
-                  looking for an opportunity to
-                  prove my skills in a healthy
-                   work environment.</h3>
+                 </h3>
 <img align="right" alt="Coding" width="400" src="https://fairchanceforcrm.com/wp-content/uploads/2021/01/sales-manager-openings.gif">
 
 &nbsp;
